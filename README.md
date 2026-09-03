@@ -32,7 +32,6 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 🎓 **University Admissions Scoring Engine**  
